@@ -33,6 +33,21 @@ Model Download link: https://drive.google.com/drive/folders/1dnhGtSpCbt76Pn22_BH
 
 ---
 
+## 📚 Dataset: Brain Stroke CT Dataset
+-This project utilizes the Brain Stroke CT Dataset by Ozgur Aslank, hosted on Kaggle. The dataset comprises 2,393 labeled CT scan images categorized into two classes:
+
+-Stroke: CT images indicating the presence of a stroke.
+
+-No Stroke: CT images without signs of a stroke.
+
+## 📁 Dataset Details:
+-Total Images: 2,393
+
+-Image Format: PNG
+
+-Resolution: 640x640 pixels
+
+
 ## 🧠 Model Architecture
 
 - **Base Model**: Vision Transformer (ViT-B16) from `vit_keras`
