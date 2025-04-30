@@ -2,6 +2,8 @@
 
 This project demonstrates a deep learning application for **brain stroke classification** from CT scan images using a **Vision Transformer (ViT-B16)** architecture. A lightweight **Flask web app** allows users to interactively upload CT scans and receive predictions powered by the trained model.
 
+Model Download link: https://drive.google.com/drive/folders/1dnhGtSpCbt76Pn22_BHjoU9L2P3rHTff?usp=drive_link
+
 ---
 
 ## 🔍 Overview
@@ -40,6 +42,7 @@ This project demonstrates a deep learning application for **brain stroke classif
   Flatten()
   Dense(256, activation='swish')
   Dense(1, activation='sigmoid')
+- **Loss Function**: Binary Crossentropy
 - **Pretrained**: On ImageNet, then fine-tuned on medical images
 
 ---
