@@ -41,7 +41,7 @@ Model Download link: https://drive.google.com/drive/folders/1dnhGtSpCbt76Pn22_BH
 -No Stroke: CT images without signs of a stroke.
 
 ## 📁 Dataset Details:
--Total Images: 2,393
+-Total Images: 6850
 
 -Image Format: PNG
 
