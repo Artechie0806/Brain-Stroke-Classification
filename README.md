@@ -1,4 +1,4 @@
-# 🧠 Brain Stroke Detection with Vision Transformer (ViT-B16)
+# Brain Stroke Detection with Vision Transformer (ViT-B16)
 
 This project demonstrates a deep learning application for **brain stroke classification** from CT scan images using a **Vision Transformer (ViT-B16)** architecture. A lightweight **Flask web app** allows users to interactively upload CT scans and receive predictions powered by the trained model.
 
@@ -18,7 +18,7 @@ Model Download link: https://drive.google.com/drive/folders/1dnhGtSpCbt76Pn22_BH
 
 ---
 
-## 🖼️ How It Works
+##  How It Works
 -Upload a brain CT image (.jpg / .png)
 
 -The image is resized and normalized for ViT input
@@ -33,14 +33,14 @@ Model Download link: https://drive.google.com/drive/folders/1dnhGtSpCbt76Pn22_BH
 
 ---
 
-## 📚 Dataset: Brain Stroke CT Dataset
+##  Dataset: Brain Stroke CT Dataset
 -This project utilizes the Brain Stroke CT Dataset by Ozgur Aslank, hosted on Kaggle. The dataset comprises 2,393 labeled CT scan images categorized into two classes:
 
 -Stroke: CT images indicating the presence of a stroke.
 
 -No Stroke: CT images without signs of a stroke.
 
-## 📁 Dataset Details:
+##  Dataset Details:
 -Total Images: 6850
 
 -Image Format: PNG
@@ -48,7 +48,7 @@ Model Download link: https://drive.google.com/drive/folders/1dnhGtSpCbt76Pn22_BH
 -Resolution: 640x640 pixels
 
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 - **Base Model**: Vision Transformer (ViT-B16) from `vit_keras`
 - **Input Size**: 224x224 pixels
