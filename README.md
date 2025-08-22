@@ -6,7 +6,7 @@ Model Download link: https://drive.google.com/drive/folders/1dnhGtSpCbt76Pn22_BH
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 | Feature          | Description                                          |
 |------------------|------------------------------------------------------|
